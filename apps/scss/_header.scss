@@ -2,6 +2,7 @@
 
     //menuBtn open styles 
     &.open {
+        // z-index: 100;
 
         // .overlay{
         //     display: block;
@@ -72,6 +73,7 @@
         padding: 1.625rem;
         margin-top: 1.5rem;
         border-radius: 5px;
+        z-index: 10000;
 
         a {
             display: block;

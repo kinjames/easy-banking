@@ -49,6 +49,14 @@
         a{
             display: inline-block;
             height: 1.25rem;
+
+            svg path{
+                transition: fill 150ms ease-in-out;
+            }
+
+            &:hover svg path {
+                fill: $limeGreen;
+            }
         }
         a:not(:last-child){
             margin-right: 1rem
@@ -81,17 +89,23 @@
 
         a {
             line-height: 2.25;
+            transition: color 150ms ease-in-out;
+
+            &:hover {
+                color: $limeGreen;
+            }
         }
     }
 
     &__cta {
+
 
         @include breakpoint-up(large){
             grid-area: cta;
             text-align: right;
             justify-self: end;
         }
-        
+
         a.button {
             @include breakpoint-down(medium){
                 margin-bottom: 1.875rem;
