@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop Design](./design/desktop-design-dark.jpg)
-![Mobile Design](./design/mobile-design-dark.jpg)
+![Desktop Design](./design/desktop-design.jpg)
+![Mobile Design](./design/mobile-design.jpg)
 
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-dashboard-rgPQirCtGJ#comment-62ce0b0a92ed2b163ef47b68)
-- Live Site URL: [Github](https://kinjames.github.io/social-media-dashboard/)
+- Live Site URL: [Github](https://kinjames.github.io/easy-banking/)
 
 ## My process
 
